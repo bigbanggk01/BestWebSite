@@ -41,7 +41,9 @@ function repositionRegFrom(regForm){
     regForm.style.width = '100%';
 }
 
-
+function GoToHomePage(){
+    window.location = '/';   
+}
 
 
 
